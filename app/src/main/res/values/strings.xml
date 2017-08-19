@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopifyChallenge</string>
+    <string name="bags"># of Awesome Bronze Bags: </string>
+    <string name="total">Napoleon Batz Total: </string>
+</resources>
